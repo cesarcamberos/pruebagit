@@ -1,2 +1,3 @@
-primer linea de texto en el archivo
+ahora es esta linea de texto
 este archivo contiene lineas de texto para prueba
+
